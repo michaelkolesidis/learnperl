@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./perl.svg" height="200px">
+  <img src="./perl.svg" height="300px">
   <h1>Learn Perl</h1>
   
   <h3>Educational material and examples for those interested in learning Perl.</h3>
